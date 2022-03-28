@@ -6,6 +6,7 @@ public class Minecraft2Code {
         System.out.println("Hola");
         System.out.println("Adios");
         System.out.println("Mayonesa");
+        System.out.println("SegundoDia");
     }
     
 }
