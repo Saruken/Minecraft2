@@ -1,0 +1,29 @@
+commit 182fe54f6d054061d7cc3d8d5fd6d56a526a04f2
+Author: juanRoperoParera <jrpzz219@gmail.com>
+Date:   Mon Mar 28 13:35:04 2022 +0200
+
+    Desde linux
+
+commit 86c2b3970e17295710b731107aebd06eee591e2e
+Author: juanRoperoParera <jrpzz219@gmail.com>
+Date:   Mon Mar 28 13:16:57 2022 +0200
+
+    Commit del segundo dia
+
+commit 926f9d1136048254807cbdd0ac17b31785705e1b
+Author: juanRoperoParera <jrpzz219@gmail.com>
+Date:   Thu Mar 24 13:58:23 2022 +0100
+
+    Mayonesa
+
+commit c0e439b862883e985bfca1bde7306a8d93182ddf
+Author: juanRoperoParera <jrpzz219@gmail.com>
+Date:   Thu Mar 24 13:56:12 2022 +0100
+
+    Segundo commit
+
+commit 8fb42f95e1192d0eb7910aaae12e759bb0a5d7f5
+Author: juanRoperoParera <jrpzz219@gmail.com>
+Date:   Thu Mar 24 13:55:00 2022 +0100
+
+    Primer commit
